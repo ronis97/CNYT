@@ -21,5 +21,6 @@
 - truncar
 - matriz unitaria
 - producto tensorial
+
 La documentacion de cada funcion se puede encontrar [aca]
 (http://htmlpreview.github.io/?https://github.com/ronis97/CNYT/blob/master/HTML/vectmatrices.html).
