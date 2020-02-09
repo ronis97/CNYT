@@ -26,6 +26,6 @@ La documentacion de cada funcion se puede encontrar [aca](http://htmlpreview.git
 
 Las pruebas se encuentran ´test_case.py´. Las imagenes respectivas que lo demuestran son:
 
-<img src="imagenes/prueba1.png" style="float: center">
-<img src="imagenes/prueba2.png" style="float: center">
-<img src="imagenes/prueba3.png" style="float: center">
+<img src="Imagenes/prueba1.png" style="float: center">
+<img src="Imagenes/prueba2.png" style="float: center">
+<img src="Imagenes/prueba3.png" style="float: center">
