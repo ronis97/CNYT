@@ -23,3 +23,9 @@
 - producto tensorial
 
 La documentacion de cada funcion se puede encontrar [aca](http://htmlpreview.github.io/?https://github.com/ronis97/LibreriaMatricesVectoresINComplejos/blob/master/HTML/vectmatrices.html).
+
+Las pruebas se encuentran ´test_case.py´. Las imagenes respectivas que lo demuestran son:
+
+<img src="imagenes/prueba1.png" style="float: center">
+<img src="imagenes/prueba2.png" style="float: center">
+<img src="imagenes/prueba3.png" style="float: center">
