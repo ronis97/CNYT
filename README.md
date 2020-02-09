@@ -30,6 +30,8 @@ Las pruebas se encuentran `test_case.py`. Las imagenes respectivas que lo demues
 <img src="Imagenes/prueba2.png" style="float: center">
 <img src="Imagenes/prueba3.png" style="float: center">
 
+De esta manera, ejecutamos `test_case.py` y encontramos:
+
 <img src="Imagenes/pruebafinal.png" style="float: center">
 
 # Uso de Libreria
