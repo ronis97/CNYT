@@ -30,6 +30,8 @@ Las pruebas se encuentran `test_case.py`. Las imagenes respectivas que lo demues
 <img src="Imagenes/prueba2.png" style="float: center">
 <img src="Imagenes/prueba3.png" style="float: center">
 
+<img src="Imagenes/pruebafinal.png" style="float: center">
+
 # Uso de Libreria
 Para usar esta libreria solo basta con descargar los archivos `complejos.py` y `vectmatrices.py` ubicarlos
 en la carpeta del proyecto en el que se vayan a utilizar y escribir en `python 3.*` las dos sencillas instrucciones:
