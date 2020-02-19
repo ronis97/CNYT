@@ -9,7 +9,7 @@ def generar(n,m):
     for i in range(n):
         l = []
         for j in range(m):
-            l.append([])
+            l.append([0,0])
         ma.append(l)
     return ma
 
